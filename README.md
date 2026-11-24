@@ -1,27 +1,29 @@
-# 💫 About Me:
-¡Hola soy Rocío juárez!<br>Frontend Developer con una pasión profunda por la lectura, la escritura y el lenguaje. Estoy interesada en la creación de interfaces intuitivas y elegantes.  Con experiencia en el desarrollo web y una sólida formación en Lengua y literaturas Hispánicas, busco oportunidades para aplicar mis habilidades técnicas y creativas en proyectos innovadores. 
+markdown
+### 👋 ¡Hola, soy Chío! / Hi there, I'm Chío!
 
+Soy **Ingeniera de Datos y Especialista en NLP**; me apasionan la **literatura, la lingüística, el lenguaje, los datos y la tecnología**. Combino mi formación en Lengua y Literaturas Hispánicas (UNAM) con más de 2 años construyendo *pipelines* de datos a gran escala (**Python, SQL, PySpark, AWS**) para modelos de Machine Learning. Estoy abierta a **colaborar en proyectos multidisciplinarios** donde converjan la lingüística computacional y la ingeniería de datos.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rocío-juárez-ramírez-b832542a1) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=flat-square&logo=insomnia&logoColor=5849BE) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Chio-jua&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Chio-jua&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chio-jua&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Chio-jua&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+I'm a **Data Engineer & NLP Specialist** passionate about the intersection of **literature, linguistics, language, data, and technology**. Bridging a background in Hispanic Linguistics (UNAM) with 2+ years of production experience in **Python, SQL, PySpark, and AWS**, I love collaborating on **multidisciplinary projects** that connect computational linguistics, data engineering, and human-centered AI.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Chio-jua&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🌐 Socials
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![Email](https://shields.io)](mailto:rociojuarezramirez2@gmail.com)
+
+---
+
+### 💻 Tech Stack
+
+**Data Engineering & Cloud**
+![Python](https://shields.io)
+![Apache Spark](https://shields.io)
+![SQL](https://shields.io)
+![AWS](https://shields.io)
+![Git](https://shields.io)
+
+**NLP, AI & Web**
+![Hugging Face](https://shields.io)
+![FastAPI](https://shields.io)
+![Docker](https://shields.io)
+![JavaScript](https://shields.io)
