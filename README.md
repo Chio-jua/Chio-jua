@@ -1,29 +1,20 @@
-markdown
-### 👋 ¡Hola, soy Chío! / Hi there, I'm Chío!
+### ¡Hola! 👋 I'm Chío
 
-Soy **Ingeniera de Datos y Especialista en NLP**; me apasionan la **literatura, la lingüística, el lenguaje, los datos y la tecnología**. Combino mi formación en Lengua y Literaturas Hispánicas (UNAM) con más de 2 años construyendo *pipelines* de datos a gran escala (**Python, SQL, PySpark, AWS**) para modelos de Machine Learning. Estoy abierta a **colaborar en proyectos multidisciplinarios** donde converjan la lingüística computacional y la ingeniería de datos.
+I'm a **Data Engineer & NLP Specialist** passionate about the intersection of **literature, linguistics, language, data, and technology**.
 
-I'm a **Data Engineer & NLP Specialist** passionate about the intersection of **literature, linguistics, language, data, and technology**. Bridging a background in Hispanic Linguistics (UNAM) with 2+ years of production experience in **Python, SQL, PySpark, and AWS**, I love collaborating on **multidisciplinary projects** that connect computational linguistics, data engineering, and human-centered AI.
+With a background in **Hispanic Language and Literatures (UNAM)** and 2+ years of experience building scalable **Python, SQL, PySpark, and AWS** data pipelines for Machine Learning models in the banking sector, I love turning complex, unstructured text and large datasets into meaningful, reliable AI solutions.
+
+🤝 **I'm always excited to collaborate on multidisciplinary projects** where computational linguistics, data engineering, and human-centered AI come together. Feel free to reach out or explore my repositories below!
 
 ---
 
-### 🌐 Socials
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Email](https://shields.io)](mailto:rociojuarezramirez2@gmail.com)
+### 🌐 Connect with me
+* **LinkedIn:** [Rocío Juárez Ramírez](https://linkedin.com)
+* **Email:** rociojuarezramirez2@gmail.com
 
 ---
 
 ### 💻 Tech Stack
-
-**Data Engineering & Cloud**
-![Python](https://shields.io)
-![Apache Spark](https://shields.io)
-![SQL](https://shields.io)
-![AWS](https://shields.io)
-![Git](https://shields.io)
-
-**NLP, AI & Web**
-![Hugging Face](https://shields.io)
-![FastAPI](https://shields.io)
-![Docker](https://shields.io)
-![JavaScript](https://shields.io)
+* **Data Engineering & Big Data:** Python, SQL, Apache Spark, PySpark, ETL/ELT, Scala, SAS
+* **NLP & AI Ecosystem:** Hugging Face Transformers, Prompt Engineering, LLM APIs, Linguistic Corpus Structuring, Text Processing
+* **Cloud, Backend & DevOps:** AWS (S3, EC2, IAM), FastAPI, Docker, Git, GitHub, Jenkins, Control-M
